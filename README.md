@@ -1,4 +1,4 @@
-# Hi there 👋, i am ifechukwukwudei - aka  chudeiDdev
+# Hi there 👋, i am ifechukwudei - aka  chudeiDdev
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifechukwudei-nwoko/) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chudeiDdev)
 #
 ## I'm a full-stack javascript Developer !!
